@@ -36,7 +36,7 @@
 ### 💬 SNS
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/cc4c784c-fd57-49b3-812f-d8578fcc9ef7"><br/>
 - 팔로우/팔로잉으로 다른 투자자들과 소통
-- 게시글은 글 (사진), 투표, 투자 현황을 게시
+- 글 (사진), 투표, 투자 현황을 게시
 - 이외에도 네비게이션바를 통해 투자전략, HOT 주식 종목을 확인
 
 
