@@ -26,7 +26,7 @@
 ### 📈 차트/보조지표
 <img width="430" alt="image" src="https://github.com/user-attachments/assets/a5c974af-aad1-4a0b-89be-9486ec2d46c3"> <br/>
 - 자신에게 맞는 차트와 보조지표를 선택
-- 실시간 주식 차트에 적용
+- 선택한 보조지표는 실시간 주식 차트에 적용되어 표시
 
 ### 💵 모의투자
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a7369a29-88fa-4145-8adf-0ff6fd3eab34"><br/>
@@ -37,12 +37,12 @@
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/cc4c784c-fd57-49b3-812f-d8578fcc9ef7"><br/>
 - 팔로우/팔로잉으로 다른 투자자들과 소통
 - 글 (사진), 투표, 투자 현황을 게시
-- 이외에도 네비게이션바를 통해 투자전략, HOT 주식 종목을 확인
+- 이외에도 네비게이션바를 통해 투자전략, HOT 주식 종목 확인
 
 
 ### 🤖 챗메이트
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/ce2f2c67-01cc-45d9-96f5-761edd4d5686"><br/>
-- 챗봇을 통해 실시간으로 필요한 정보와 지표에 대한 답변을 받을 수 있음
+- 챗봇을 통해 실시간으로 필요한 정보와 지표에 대한 답변 제공
 
 
 ## Stacks
