@@ -31,13 +31,13 @@
 ### 💵 모의투자
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a7369a29-88fa-4145-8adf-0ff6fd3eab34"><br/>
 - 가상으로 실시간 매수와 매도 주문
-- 실시간으로 주문 내역 확인
+- 실시간으로 주문 내역 확인 가능 (미체결/체결)
 
 ### 💬 SNS
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/cc4c784c-fd57-49b3-812f-d8578fcc9ef7"><br/>
 - 팔로우/팔로잉으로 다른 투자자들과 소통
 - 글 (사진), 투표, 투자 현황을 게시
-- 이외에도 네비게이션바를 통해 투자전략, HOT 주식 종목 확인
+- 이외에도 네비게이션바를 통해 투자전략, HOT 주식 종목 정보 제공
 
 
 ### 🤖 챗메이트
