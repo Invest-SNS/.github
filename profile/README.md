@@ -66,4 +66,4 @@
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/259b8b73-2607-4bca-91f3-505b02d11eeb">
 
 ## Demo Video
-[![Watch the video](https://www.youtube.com/watch?v=yS_JMmGsaV4.jpg)](https://www.youtube.com/watch?v=yS_JMmGsaV4)
+[![Watch the video](https://youtu.be/yS_JMmGsaV4.jpg)](https://youtu.be/yS_JMmGsaV4)
